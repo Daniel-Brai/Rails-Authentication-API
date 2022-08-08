@@ -1,24 +1,7 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple authenication API built with rails using JWT
 
 Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby version: Ruby 3.1.2p0 (Linux)
+* Server: rails s
